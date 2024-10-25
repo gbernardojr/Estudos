@@ -1,2 +1,2 @@
-# estudos
-Repositório de estudo auxiliados por inteligência generativa
+# Estudos
+Repositório de estudos auxiliados por inteligência generativa
